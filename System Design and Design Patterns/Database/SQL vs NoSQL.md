@@ -33,3 +33,12 @@ Problems with sharding:
 - Joins and denormalization
 - Referential integrity - foreign keys in different servers
 - Rebalacing - data load on sharded database
+
+
+Design Patterns:
+- SOLID principles: 
+    - Single responsibility
+    - Open for extension and closed for modification
+    - Liskov substition
+    - Interface segregation
+    - Dependency inversion
