@@ -16,12 +16,13 @@ It is where NoSQL comes into picture which doesn't require a fixed schema and ne
 
 
 CAP Theorem:
-Consistency, Availability and Partition tolerance
-Of the three, any database system can only cater 2 features.
+- Consistency, Availability and Partition tolerance
+- Of the three, any database system can only cater 2 features.
 
 
 Sharding:
 Process of splitting up the database(horizontal scaling) accross machines to improve scalability, performance, availability and load balancing of an application.
+
 Sharding techniques:
 - Horizontal partitioning: range based
 - Vertical partitioning: feature based
