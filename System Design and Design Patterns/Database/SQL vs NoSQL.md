@@ -42,3 +42,5 @@ Design Patterns:
     - Liskov substition
     - Interface segregation
     - Dependency inversion
+
+- Singleton: Used to create only once instance of the class
