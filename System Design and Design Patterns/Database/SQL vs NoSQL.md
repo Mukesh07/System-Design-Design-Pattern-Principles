@@ -15,18 +15,19 @@ It is where NoSQL comes into picture which doesn't require a fixed schema and ne
 - Graph Database
 
 
-CAP Theorem
+CAP Theorem:
 Consistency, Availability and Partition tolerance
 Of the three, any database system can only cater 2 features.
 
 
-Sharding
+Sharding:
 Process of splitting up the database(horizontal scaling) accross machines to improve scalability, performance, availability and load balancing of an application.
 Sharding techniques:
 - Horizontal partitioning: range based
 - Vertical partitioning: feature based
 - Directory based partioning: Uses look up server
 - Hash based partioning
+
 Problems with sharding:
 - Joins and denormalization
 - Referential integrity - foreign keys in different servers
