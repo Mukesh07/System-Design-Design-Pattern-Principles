@@ -1,7 +1,7 @@
 #Creational desgin patterns
 - Factory method: Provides interface for creating objects in a superclass, but allows    subclasses to alter the type of objects that will be created.
 - Abstract factory method: Produces families of related objects without specifying their concrete classes.
-- Builder
+- Builder: Construct complex objects step by step. The pattern allows to produce different types and representations of an object using the same construction code.
 - Prototype
 - Singleton
 
