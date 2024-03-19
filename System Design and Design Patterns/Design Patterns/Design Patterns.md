@@ -3,7 +3,7 @@
 - Abstract factory method: Produces families of related objects without specifying their concrete classes.
 - Builder: Construct complex objects step by step. The pattern allows to produce different types and representations of an object using the same construction code.
 - Prototype: Copy existing objects without making your code dependent on their classes.
-- Singleton
+- Singleton: Ensures that a class has only one instance, while providing a global access point to this instance.
 
 #Structural design patterns
 - Adapter
