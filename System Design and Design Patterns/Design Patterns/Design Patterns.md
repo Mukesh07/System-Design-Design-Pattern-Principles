@@ -8,7 +8,7 @@
 #Structural design patterns
 - Adapter: Allows objects with incompatible interfaces to collaborate.
 - Bridge: Split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
-- Composite
+- Composite: Compose objects into tree structures and then work with these structures as if they were individual objects.
 - Decorator
 - Facade
 - Flyweight
