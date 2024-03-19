@@ -6,7 +6,7 @@
 - Singleton: Ensures that a class has only one instance, while providing a global access point to this instance.
 
 #Structural design patterns
-- Adapter
+- Adapter: Allows objects with incompatible interfaces to collaborate.
 - Bridge
 - Composite
 - Decorator
