@@ -10,7 +10,7 @@
 - Bridge: Split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
 - Composite: Compose objects into tree structures and then work with these structures as if they were individual objects.
 - Decorator: Attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
-- Facade
+- Facade: Provides a simplified interface to a library, a framework, or any other complex set of classes.
 - Flyweight
 - Proxy
 
