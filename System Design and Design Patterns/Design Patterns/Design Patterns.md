@@ -11,7 +11,7 @@
 - Composite: Compose objects into tree structures and then work with these structures as if they were individual objects.
 - Decorator: Attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 - Facade: Provides a simplified interface to a library, a framework, or any other complex set of classes.
-- Flyweight
+- Flyweight: Fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object.
 - Proxy
 
 #Behavioural design patterns
