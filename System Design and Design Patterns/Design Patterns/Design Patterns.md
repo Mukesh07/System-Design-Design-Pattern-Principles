@@ -18,7 +18,7 @@
 - Chain of responsibility: Pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 - Command: Turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
 - Iterator: Traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
-- Mediator
+- Mediator: reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
 - Memento
 - Observer
 - State
