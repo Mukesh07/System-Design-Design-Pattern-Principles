@@ -20,7 +20,7 @@
 - Iterator: Traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
 - Mediator: reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
 - Memento: Save and restore the previous state of an object without revealing the details of its implementation.
-- Observer
+- Observer: Define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 - State
 - Strategy
 - Template method
